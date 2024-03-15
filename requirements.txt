@@ -1,4 +1,4 @@
-nltk==3.8.1
-pandas==2.2.1
-torch==2.1.0
-tqdm==4.66.1
+nltk
+pandas
+torch
+tqdm
